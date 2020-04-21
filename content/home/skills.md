@@ -24,7 +24,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Knowledge about statistics in the area of Industrial Production Engineer"  
+  description = "Knowledge about statistics in the area of Industrial Production Engineering"  
   
 [[feature]]
   icon = "file-excel"
