@@ -42,6 +42,12 @@ subtitle = ""
   icon = "github"
   icon_pack = "fab"
   name = "GitHub"
-  description = "Intermediate knowledge of how to use Git with GitHub"
+  description = "Basic knowledge of how to use Git with GitHub"
+  
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Minitab"
+  description = "Knowledge about use the Minitab Statistical Software"
 
 +++

@@ -17,7 +17,7 @@ interests:
 - Data Science
 name: Luis Felipe Carvajal Retana
 organizations:
-- name: Costa Rica Institute of Technology
+- name: Instituto Tecnológico de Costa Rica
   url: "https://www.tec.ac.cr/"
 role: Student of Industrial Production Engineer
 social:
@@ -36,6 +36,6 @@ social:
 superuser: true
 ---
 
-I´m a student of the carrer in Industrial Production Engineer of the Costa Rica Institute of Technology, I´m very interest in topics that involve data science.
+I´m a student of the career in Industrial Production Engineering of the Instituto Tecnológico de Costa Rica, I´m very interest in topics that involve data science.
 
 I recently participated in a group called [DABIA](https://www.grupodabia.com/) which is a community of interest in the data science. I would like to share opinions about all those topics in posts in the webpage of DABIA. If you want to read posts that I have made about data science and other topics or the teamwork that I have participated in the group, please visit the webpage [DABIA](https://www.grupodabia.com/).
